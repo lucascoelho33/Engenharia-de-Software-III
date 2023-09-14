@@ -1,0 +1,1 @@
+O acoplamento de classe é uma medida de quantas classes uma única classe usa. Um número alto de classes não é satisfatório, e um número baixo nessa métrica geralmente é o ideal. É unir ou acoplar dois ou mais elementos de código, criando uma dependência.
