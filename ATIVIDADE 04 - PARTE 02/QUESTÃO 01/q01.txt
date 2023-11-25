@@ -1,0 +1,1 @@
+É porque a classe derivada 'ContaPoupanca' altera o comportamento do método 'sacar' colocando uma restrição para ContaPoupanca, o que fere o princípio de substituição de Liskov.
