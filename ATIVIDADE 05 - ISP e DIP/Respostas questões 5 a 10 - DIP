@@ -1,0 +1,7 @@
+5. A principal imagem relacionada ao DIP é o diagrama de dependência que forma uma seta invertida. A explicação é que módulos de alto nível, que fornecem lógica complexa, devem ser facilmente reutilizáveis e não afetados por alterações em módulos de baixo nível, que fornecem recursos utilitários. Para conseguir isso, precisamos introduzir uma abstração que separe os módulos de alto e baixo nível.
+
+6. Programar para interfaces refere-se ao desenvolvimento de código que interage com interfaces de usuário.Isso envolve criar e manipular elementos gráficos, como botões, menus e outros componentes visuais, para proporcionar uma experiência interativa aos usuário.
+
+9. Vai depender das circunstâncias do projeto, mas muitos desenvolvedores começam com SRP e OCP antes de utilizar o DIP.
+
+10. Embora esses princípios ajudem a criar um design mais coeso e flexível, a implementação do DIP não é garantida por seguir os primeiros quatro princípios SOLID. Portanto, a aplicação efetiva do DIP pode envolver considerações adicionais. 

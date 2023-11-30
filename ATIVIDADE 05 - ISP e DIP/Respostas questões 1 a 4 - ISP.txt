@@ -1,0 +1,7 @@
+ 1. A principal imagem associada a esse princípio é o diagrama de arquitetura de camadas. A explicação básica desse princípio é que um componente ou módulo deve ter uma responsabilidade única e bem definida, e as interações entre os componentes devem ser gerenciadas por interfaces claras e padronizadas. Isso facilita o desenvolvimento, a manutenção e o funcionamento do sistema.
+
+ 2. A segregação de interfaces promove um design de software mais flexível e fácil de manter. Isso ajuda a evitar problemas de acoplamento excessivo e facilita a evolução do código.
+
+ 3. Sim. Embora esses princípios sejam distintos, há uma correlação entre eles no sentido de que ambos visam promover a coesão e reduzir o acoplamento em um sistema.
+
+ 4. O entendimento comum é que uma classe deve manter a sua interface simples. Deve compô-la apenas com os métodos necessários para garantir seu tipo e que estejam relacionados com a sua responsabilidade. Interfaces que tem muitos comportamentos geralmente se espalham pelo sistema trazendo complexidade e dificuldade de manutenção ao código.  
